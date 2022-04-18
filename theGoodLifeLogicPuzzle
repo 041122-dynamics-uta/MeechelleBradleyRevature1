@@ -1,0 +1,24 @@
+The Good Life
+
+Each of five neighborhood dogs (Saber, Ginger, Nutmeg, Pepper, and Bear) is enjoying one of the following activities: getting its ears scratched, playing catch, taking a nap, burying a chew toy, and going for a walk.
+
+Pepper is either playing catch or burying a chew toy.
+
+Since we know that Pepper is either playing catch or burying a chew toy, we can eliminate the following activities from him: getting ears scratched, taking a nap and going for a walk. 
+
+Neither Ginger nor Saber nor Bear is on a walk.
+Since we know that Pepper is either playing catch or burying a chew toy and neither Ginger, Saber or Bear are on a walk, we can assume that Nutmeg is on a walk.
+
+One of the dogs named after a spice is getting its ears scratched.
+
+We know that the spices encompass Pepper, Ginger and Nutmeg, but we can immediately remove Pepper from the selection because it was noted earlier that Pepper is either playing catch or burying a chew toy. Then we concluded earlier that Nutmeg was on a walk, leaving Ginger to be getting its ears scratched.
+
+A dog not named for a spice is playing catch.
+Since we know that the options for Pepper were either to be playing catch or burying a chew toy, we can conclude that with Pepper’s name being a spice, he is not playing catch and can conclude that his activity is instead burying a chew toy.
+
+Additionally, the dogs whose names aren’t of spices are Saber and Bear. 
+
+Bear is getting some exercise.
+The only available activities considered as exercise after concluding the above is playing catch, which can be assigned to bear. 
+
+The last activity would be taking a nap, which via process of elimination would then be assigned to Saber. 
